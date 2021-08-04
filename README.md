@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Thalis Andrade</h1>
 
-<!--
-**Thalis-A98/Thalis-A98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Seja Bem Vindo ao meu GitHub</h3>
+<p>Tenho 23 anos , sou Tecnólogo em Redes de Computador, e estou em formação para Bacharelado em Sistemas de Informação</p>
+<p>Hoje estou em constante apredizado na Linguagem de Programação C# (Back-End) e Linguagem de Marcação HTML e CSS (Front-End)</p>
 
-Here are some ideas to get you started:
+🖥 - Atualmente trabalho como Analista de Suporte!<br/>
+📚 - Sempre buscando novos conhecimentos.<br/>
+☎ - Meu Contato - https://www.linkedin.com/in/thalis-andrade-225679151/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalis-A98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalis-A98&layout=compact&langs_count=7&theme=dark&show_icons=true"/>
+</div>
