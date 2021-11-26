@@ -1,8 +1,9 @@
 <h1>Thalis Andrade</h1>
 
 <h3>Seja Bem Vindo ao meu GitHub</h3>
-<p>Tenho 23 anos , sou Tecnólogo em Redes de Computador, e estou em formação para Bacharelado em Sistemas de Informação</p>
-<p>Hoje estou em constante apredizado na Linguagem de Programação C# (Back-End) e Linguagem de Marcação HTML e CSS (Front-End)</p>
+<p>Tenho 23 anos , sou Tecnólogo em Redes de Computador, e estou em formação para Bacharelado em Sistemas de Informação.</p>
+<p>Apaixonado por Tecnologia e movido a novos Desafios.</p>
+<p>Hoje estou em constante apredizado em Programação Web (HTML. CSS e JS)</p>
 
 🖥 - Atualmente trabalho como Analista de Suporte!<br/>
 📚 - Sempre buscando novos conhecimentos.<br/>
