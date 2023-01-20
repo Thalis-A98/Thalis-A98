@@ -8,8 +8,3 @@
 🖥 - Atualmente trabalho como Analista de Suporte!<br/>
 📚 - Sempre buscando novos conhecimentos.<br/>
 ☎ - Meu Contato - https://www.linkedin.com/in/thalis-andrade-225679151/
-
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thalis-A98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalis-A98&layout=compact&langs_count=7&theme=dark&show_icons=true"/>
-</div>
